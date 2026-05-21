@@ -2,7 +2,7 @@
   "name": "Password Generator",
   "short_name": "Password",
   "description": "Strong, secure password generator. Runs entirely on your device.",
-  "start_url": "./password.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
